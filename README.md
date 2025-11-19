@@ -3,9 +3,10 @@
 I'm Sam also know as NietMeerLeuk, a beginning Software Developer from The netherlands.
 
 - ✨ Student @ [Koning Willem I](https://www.kw1c.nl/)
+- 📜 Portfolio: [nietmeerleuk.me](https://nietmeerleuk.me)
 - 📫 Discord: [nietmeerleuk](https://discordapp.com/users/971240646239191080)
 
-- 🌱 Working on Portfolio website (HTML5 & CSS3)
+- 🌱 Working on ...
 
 <img src="https://github-readme-stats.vercel.app/api?username=nietmeerleuk-nl&theme=dark&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nietmeerleuk-nl&theme=dark&show_icons=true" />
