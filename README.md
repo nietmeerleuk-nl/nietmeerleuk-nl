@@ -10,13 +10,13 @@ I'm Sam also know as Rikkert, a beginning Software Developer from The netherland
 
 ###
 
-<a href="https://github.com/nietmeerleuk-nl">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nietmeerleuk-nl&include_all_commits=true&show_icons=true&theme=dark&count_private=true" alt="GatitoUwU's Github Stats" />
+<a href="https://github.com/rikkert-cfx">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rikkert-cfx&include_all_commits=true&show_icons=true&theme=dark&count_private=true" alt="Rikkert's Github Stats" />
   
 </a>
 
 ###
 
-<a href="https://github.com/nietmeerleuk-nl">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nietmeerleuk-nl&layout=compact&theme=dark" />
+<a href="https://github.com/rikkert-cfx">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rikkert-cfx&layout=compact&theme=dark" />
 </a>
