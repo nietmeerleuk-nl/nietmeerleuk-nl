@@ -6,7 +6,7 @@ I'm Sam also know as Rikkert, a beginning Software Developer from The netherland
 - 📜 Portfolio: [nietmeerleuk.me](https://nietmeerleuk.me)
 - 📫 Discord: [rikkert.cfx](https://discordapp.com/users/971240646239191080)
 
-- 🌱 Working on **a mobile app.**
+- 🌱 Working on a **...**
 
 ###
 
